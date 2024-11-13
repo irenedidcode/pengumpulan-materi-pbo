@@ -5,6 +5,7 @@ yang diberikan. semoga dengan adanya materi Pemograman Berorientasi Objek dapat 
 pemahaman dan juga praktek dalam pembelajaran pemograman, materi yang berisikan tentang: 
 
 - [class-objek]
+- [constructor]
 
 
 ## Tentang Creator Pembuat Materi 
