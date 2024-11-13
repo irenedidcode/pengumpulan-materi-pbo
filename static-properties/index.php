@@ -38,5 +38,6 @@
         $obj2 = new ChildClass;
     ?>
     <h1><?php echo ChildClass::displayFromChild(); ?> </h1>
+    <h1><?php echo ParentClass::display(); ?> </h1>
 </body>
 </html>
