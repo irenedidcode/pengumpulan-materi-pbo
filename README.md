@@ -6,6 +6,10 @@ pemahaman dan juga praktek dalam pembelajaran pemograman, materi yang berisikan 
 
 - [class-objek]
 - [constructor]
+- [abstract-class]
+- [interface]
+- [inheritance]
+- [static-properties]
 
 
 ## Tentang Creator Pembuat Materi 
